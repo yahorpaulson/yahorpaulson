@@ -1,6 +1,9 @@
 ## Hi there! I'm Yahor. 👋
 
 Currently a student of AAU Klagenfurt, Austria (Bachelor degree)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahorpaulson)](https://github.com/yahorpaulson/github-readme-stats)
 <!--
 **yahorpaulson/yahorpaulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
