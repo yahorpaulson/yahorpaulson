@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Yahor. 👋
 
+Currently the student of AAU Klagenfurt, Austria (Bachelor degree)
 <!--
 **yahorpaulson/yahorpaulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
