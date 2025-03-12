@@ -1,22 +1,29 @@
-## Hi there! I'm Yahor. 👋
+# Hi there! I'm Yahor 👋
 
-Currently a student of AAU Klagenfurt, Austria (Bachelor degree)
+🎓 Bachelor Student at AAU Klagenfurt, Austria  
+💻 Passionate about Software Development, Web Technologies, and Problem-Solving  
+🌱 Currently learning **PHP & WordPress**, focusing on custom admin panels  
+🚀 Working on a **news portal project** using WordPress & PHP  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahorpaulson)](https://github.com/yahorpaulson/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahorpaulson)](https://github.com/yahorpaulson/github-readme-stats)
+## 🔧 Tech Stack
+- **Languages**: Java, JavaScript, TypeScript, C++, PHP, Python
+- **Web Development**: Angular, React, Vite, Node.js, HTML, CSS 
+- **Databases**: PostgreSQL, MySQL
+- **Other Tools**: Git, Docker, Linux, Bash, VS Code  
 
+## 📈 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahorpaulson&layout=compact&theme=dark)](https://github.com/yahorpaulson/github-readme-stats)  
+[![Yahor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahorpaulson&show_icons=true&theme=dark)](https://github.com/yahorpaulson/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yahorpaulson&theme=dark)](https://github.com/yahorpaulson/leetcode-stats)
-<!--
-**yahorpaulson/yahorpaulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yahorpaulson?theme=dark&font=Lexend)](https://leetcode.com/yahorpaulson)
 
-Here are some ideas to get you started:
+## 🛠 Projects  
+📌 **[Online Marketplace](https://github.com/yahorpaulson/online-marketplace)** – E-commerce platform with multiple features  
+🔗 **[More Repositories](https://github.com/yahorpaulson?tab=repositories)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yahorpaulson)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:yahorforall@gmail.com)
+
+---
