@@ -3,13 +3,13 @@
 🎓 Bachelor Student at AAU Klagenfurt, Austria  
 💻 Passionate about Software Development, Web Technologies, and Problem-Solving  
 🌱 Currently learning **PHP & WordPress**, focusing on custom admin panels  
-🚀 Working on a **news portal project** using WordPress & PHP  
+🚀 Working on  Personal website using Vue + Node.js + MongoDB
 
 ## 🔧 Tech Stack
 - **Languages**: Java, JavaScript, TypeScript, C++, PHP, Python
-- **Web Development**: Angular, React, Vite, Node.js, HTML, CSS 
-- **Databases**: PostgreSQL, MySQL
-- **Other Tools**: Git, Docker, Linux, Bash, VS Code  
+- **Web Development**: Angular, Vue, React, Vite, Node.js, HTML, CSS 
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Other Tools**: Git, Linux, Bash, VS Code  
 
 ## 📈 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahorpaulson&layout=compact&theme=dark)](https://github.com/yahorpaulson/github-readme-stats)  
