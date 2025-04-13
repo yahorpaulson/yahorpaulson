@@ -12,7 +12,7 @@
 - ✨ Improving UI/UX of my portfolio (animations, interactions, layout polish)  
 - 🧩 Building a **dynamic contacts section** with custom buttons & canvas effects  
 - 🔍 Exploring new web technologies and backend deployment workflows  
-- 🛠 Planning next features: **feedback field**, **return button in project component** (user-friendly navigation)
+- 🛠 Planning next features: **feedback field**(done), **return button in project component** (user-friendly navigation)
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yahorpaulson)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/yahor-siarheyeu-0a72a52a4)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:yahorforall@gmail.com)
 
 ---
