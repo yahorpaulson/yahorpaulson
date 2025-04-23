@@ -10,22 +10,21 @@
 ## 📌 What I'm working on
 
 - ✨ Enhancing UI/UX of my portfolio (animations, smooth transitions, responsive layout)  
-- 🔧 Building reusable admin components (project editing, authentication, token management)  
-- 🔍 Exploring backend workflows: Dockerization, Fly.io deployment, JWT token auth  
-- 🛠 Planning next features: return navigation, admin UI improvements, SEO optimization
+- 🔍 Exploring backend workflows: Dockerization, Fly.io deployment, JWT token auth, OAuth 2.0, GraphQL  
+- 🛠 Planning next features: admin UI improvements
+- 🗓️ Next project: transport A web application designed for a transport company to manage orders.
 
 ---
 ## 📌 What I'm focusing on now
 
-- 🛠 Deepening my skills in backend development (Django, Node.js, REST APIs, auth logic)
+- 🛠 Deepening my skills in backend development (Node.js, REST APIs, auth logic)
 - 🌐 Experimenting with Three.js for interactive 3D frontends and visual effects
-- 🔄 Designing reusable admin features and secure token-based systems
 - 🎯 Preparing to finalize my Bachelor's studies while focusing on building real-world projects
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Java, JavaScript, TypeScript, C++, Python  
+- **Languages**: Java, JavaScript, TypeScript, Python  
 - **Frontend**: Vue.js, React, Angular, Vite, HTML, CSS  
 - **Backend**: Node.js (Express), Java Spring Boot, Python (Django)  
 - **Databases**: MongoDB, PostgreSQL, MySQL  
