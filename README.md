@@ -12,7 +12,7 @@
 - ✨ Enhancing UI/UX of my portfolio (animations, smooth transitions, responsive layout)  
 - 🔍 Exploring backend workflows: Dockerization, Fly.io deployment, JWT token auth, OAuth 2.0, GraphQL  
 - 🛠 Planning next features: admin UI improvements
-- 🗓️ Next project: transport A web application designed for a transport company to manage orders.
+- 🗓️ Next project: web application designed for a transport company to manage orders.
 
 ---
 ## 📌 What I'm focusing on now
@@ -20,6 +20,7 @@
 - 🛠 Deepening my skills in backend development (Node.js, REST APIs, auth logic)
 - 🌐 Experimenting with Three.js for interactive 3D frontends and visual effects
 - 🎯 Preparing to finalize my Bachelor's studies while focusing on building real-world projects
+- 📋 Planning: Building stack/goals (language, libraries, models, architecture, databases, tools) 
 ---
 
 ## 🧰 Tech Stack
