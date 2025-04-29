@@ -2,7 +2,7 @@
 
 🎓 Bachelor student at **AAU Klagenfurt, Austria**  
 💻 Passionate about **Software Development**, **Full-Stack Web Engineering**, and **Solving Real-World Problems**  
-🚀 Currently developing my **personal portfolio platform** using **Vue + Node.js + MongoDB**  
+🚀 Currently developing **Web platform for cargo transportation** using **Vue + Kotlin + PostgreSQL**  
 🧠 Evolving as a full-stack developer by building projects from scratch and deploying them to production
 
 ---
