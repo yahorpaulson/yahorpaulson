@@ -1,26 +1,26 @@
 # Hi there! I'm Yahor 👋
 
 🎓 Bachelor student at **AAU Klagenfurt, Austria**  
-💻 Passionate about **Software Development**, **Full-Stack Web Engineering**, and **Solving Real-World Problems**  
-🚀 Currently developing **Web platform for cargo transportation** using **Vue + Kotlin + PostgreSQL**  
-🧠 Evolving as a full-stack developer by building projects from scratch and deploying them to production
+💻 Passionate about **Software Development**, **Full-Stack Engineering**, and solving real-world problems through clean and efficient code  
+🚀 Building a **cargo transport platform** for furniture moving using **Vue + TypeScript**, **Python (GraphQL)**, **PostgreSQL**, and secure **OAuth/JWT** auth  
+🧠 Growing as a full-stack engineer by taking projects from idea to production
 
 ---
 
-## 📌 What I'm working on
+## 📌 What I'm Working On
 
-- ✨ Enhancing UI/UX of my portfolio (animations, smooth transitions, responsive layout)  
-- 🔍 Exploring backend workflows: Dockerization, Fly.io deployment, JWT token auth, OAuth 2.0, GraphQL  
-- 🛠 Planning next features: admin UI improvements
-- 🗓️ Next project: web application designed for a transport company to manage orders.
+- ✨ Improving my portfolio: responsive layout, animation, smooth UX
+- 🔍 Exploring backend workflows: Docker, Fly.io, JWT, OAuth 2.0, GraphQL
+- 🛠 Building admin panel functionality (secure order management, data handling)
+- 📦 Developing a real-world transport management system
 
 ---
-## 📌 What I'm focusing on now
+## 🎯 What I'm Focusing on Now
 
-- 🛠 Deepening my skills in backend development (Node.js, REST APIs, auth logic)
-- 🌐 Experimenting with Three.js for interactive 3D frontends and visual effects
-- 🎯 Preparing to finalize my Bachelor's studies while focusing on building real-world projects
-- 📋 Planning: Building stack/goals (language, libraries, models, architecture, databases, tools) 
+- 🔧 Deepening backend expertise with Node.js, API design & authorization logic
+- 🌐 Experimenting with **Three.js** for 3D frontend visualizations
+- 🎓 Wrapping up Bachelor studies while focusing on impactful projects
+- 🧱 Structuring full-stack architecture (languages, libs, models, infra)
 ---
 
 ## 🧰 Tech Stack
