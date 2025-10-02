@@ -3,6 +3,7 @@
 🎓 Bachelor student at **AAU Klagenfurt, Austria**  
 💻 Passionate about **Software Development**, **Full-Stack Engineering**, and solving real-world problems through clean and efficient code  
 🚀 Building a **cargo transport platform** for furniture moving using **Vue + TypeScript**, **Python (GraphQL)**, **PostgreSQL**, and secure **OAuth/JWT** auth  
+At the same time started a hiring platform for companies and employees using React(Next.JS)+Typescript, Python (GraphQL)
 🧠 Growing as a full-stack engineer by taking projects from idea to production
 
 ---
@@ -11,7 +12,7 @@
 
 - ✨ Improving my portfolio: responsive layout, animation, smooth UX
 - 🔍 Exploring backend workflows: Docker, Fly.io, JWT, OAuth 2.0, GraphQL
-- 🛠 Building admin panel functionality (secure order management, data handling)
+- 🛠 Building admin panel - Dashboard functionality from scratch (secure order management, data handling)
 - 📦 Developing a real-world transport management system
 
 ---
@@ -26,7 +27,7 @@
 ## 🧰 Tech Stack
 
 - **Languages**: Java, JavaScript, TypeScript, Python  
-- **Frontend**: Vue.js, React, Angular, Vite, HTML, CSS  
+- **Frontend**: Vue.js, React, Next.js, Angular, Vite, HTML, CSS  
 - **Backend**: Node.js (Express), Java Spring Boot, Python (Django)  
 - **Databases**: MongoDB, PostgreSQL, MySQL  
 - **Dev Tools**: Git, Docker, Bash, Linux, VS Code, IntelliJ IDEA
