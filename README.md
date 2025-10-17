@@ -49,11 +49,13 @@ At the same time started a hiring platform for companies and employees using **R
 
 ## 🛠 Projects
 
+- 🚛 [**ataian-umzug.at**](https://ataian-umzug.at) – Company website for moving services (Umzug & Transport)  
 - 📌 [**Online Marketplace**](https://github.com/yahorpaulson/online-marketplace) – A modular e-commerce platform with multilingual support and admin interface  
 - 💼 [**Portfolio Website**](https://yahorpaulson.com) – Full-stack site built with Vue + Node.js + MongoDB  
   🌙 Dark theme · 🧠 Animated UI · 🌐 Multilingual: 🇬🇧 | 🇩🇪 | 🇧🇾  
   [![Deployed on Vercel](https://img.shields.io/badge/Live%20Site-Vercel-black?logo=vercel&style=flat)](https://yahorpaulson.com)  
 - 🔗 [**More Projects**](https://github.com/yahorpaulson?tab=repositories)
+
 
 ---
 
