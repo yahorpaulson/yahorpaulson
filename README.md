@@ -1,16 +1,16 @@
 # Hi there! I'm Yahor 👋
 
-🎓 Bachelor student at **AAU Klagenfurt, Austria**  
+🎓 Student at **AAU Klagenfurt, Austria**  
 💻 Passionate about **Software Development**, **Full-Stack Engineering**, and solving real-world problems through clean and efficient code  
 🚀 Building a **cargo transport platform** for furniture moving using **Vue + TypeScript**, **Python (GraphQL)**, **PostgreSQL**, and secure **OAuth/JWT** auth  
-At the same time started a hiring platform for companies and employees using **React(Next.JS)+Typescript**, **Python** (GraphQL)  
-🧠 Growing as a full-stack engineer by taking projects from idea to production
+🧠 Growing as a software engineer by taking projects from idea to production
 
 ---
 
 ## 📌 What I'm Working On
 
 - ✨ Improving my portfolio: responsive layout, animation, smooth UX
+- 🎥 Working on projects of video encoding
 - 🔍 Exploring backend workflows: Docker, Fly.io, JWT, OAuth 2.0, GraphQL
 - 🛠 Building admin panel - Dashboard functionality from scratch (secure order management, data handling)
 - 📦 Developing a real-world transport management system
@@ -19,7 +19,6 @@ At the same time started a hiring platform for companies and employees using **R
 ## 🎯 What I'm Focusing on Now
 
 - 🔧 Deepening backend expertise with Node.js, API design & authorization logic
-- 🌐 Experimenting with **Three.js** for 3D frontend visualizations
 - 🎓 Wrapping up Bachelor studies while focusing on impactful projects
 - 🧱 Structuring full-stack architecture (languages, libs, models, infra)
 ---
