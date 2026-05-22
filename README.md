@@ -1,64 +1,123 @@
 # Hi there! I'm Yahor 👋
 
-🎓 Student at **AAU Klagenfurt, Austria**  
-💻 Passionate about **Software Development**, **Full-Stack Engineering**, and solving real-world problems through clean and efficient code  
-🚀 Building a **cargo transport platform** for furniture moving using **Vue + TypeScript**, **Python (GraphQL)**, **PostgreSQL**, and secure **OAuth/JWT** auth  
-🧠 Growing as a software engineer by taking projects from idea to production
+🎓 Computer Science student at AAU Klagenfurt, Austria  
+💻 Focused on Backend Development, Streaming Technologies, and modern network protocols  
+🚀 Exploring Media over QUIC (MoQ), adaptive bitrate streaming, and real-time media transport systems  
+🧠 Interested in scalable systems where networking, performance, and software engineering intersect
 
 ---
 
 ## 📌 What I'm Working On
 
-- ✨ Improving my portfolio: responsive layout, animation, smooth UX
-- 🎥 Working on projects of video encoding
-- 🔍 Exploring backend workflows: Docker, Fly.io, JWT, OAuth 2.0, GraphQL
-- 🛠 Building admin panel - Dashboard functionality from scratch (secure order management, data handling)
-- 📦 Developing a real-world transport management system
+- 🎥 Researching Media over QUIC (MoQ) and working with MOQtail
+- 📡 Experimenting with adaptive bitrate streaming and transport behavior
+- ⚡ Comparing DASH, HLS, WebRTC, and MoQ streaming approaches
+- 🛠 Building and modifying streaming infrastructure in Rust
+- 📊 Exploring QoE metrics, latency analysis, buffering, and video delivery optimization
 
 ---
-## 🎯 What I'm Focusing on Now
 
-- 🔧 Deepening backend expertise with Node.js, API design & authorization logic
-- 🎓 Wrapping up Bachelor studies while focusing on impactful projects
-- 🧱 Structuring full-stack architecture (languages, libs, models, infra)
+## 🎯 Current Focus
+
+- 🔧 Backend engineering and distributed systems
+- 🌐 QUIC, HTTP/3, real-time transport, and streaming architectures
+- 🧪 Performance analysis and protocol experimentation
+- 🎓 Completing Bachelor studies while developing production-level engineering skills
+
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Java, JavaScript, TypeScript, Python  
-- **Frontend**: Vue.js, React, Next.js, Angular, Vite, HTML, CSS  
-- **Backend**: Node.js (Express), Java Spring Boot, Python (Django)  
-- **Databases**: MongoDB, PostgreSQL, MySQL  
-- **Dev Tools**: Git, Docker, Bash, Linux, VS Code, IntelliJ IDEA
+### Languages
+- Rust
+- Java
+- TypeScript
+- JavaScript
+- Python
+- C / C++
 
----
+### Frontend
+- Vue.js
+- React
+- Next.js
+- Angular
+- Vite
 
-## 📊 GitHub Stats
+### Backend
+- Node.js (Express)
+- Spring Boot
+- Django
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahorpaulson&layout=compact&theme=dark)](https://github.com/yahorpaulson/github-readme-stats)  
-[![Yahor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahorpaulson&show_icons=true&theme=dark)](https://github.com/yahorpaulson/github-readme-stats)
+### Streaming & Media
+- DASH
+- HLS
+- MoQ
+- WebRTC
+- FFmpeg
 
----
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
 
-## 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yahorpaulson?theme=dark&font=Lexend)](https://leetcode.com/yahorpaulson)
+### Dev Tools
+- Docker
+- Git
+- Linux
+- Bash
+- Wireshark
+- VS Code
+- IntelliJ IDEA
 
 ---
 
 ## 🛠 Projects
 
-- 🚛 [**ataian-umzug.at**](https://ataian-umzug.at) – Company website for moving services (Umzug & Transport)  
-- 📌 [**Online Marketplace**](https://github.com/yahorpaulson/online-marketplace) – A modular e-commerce platform with multilingual support and admin interface  
-- 💼 [**Portfolio Website**](https://yahorpaulson.com) – Full-stack site built with Vue + Node.js + MongoDB  
-  🌙 Dark theme · 🧠 Animated UI · 🌐 Multilingual: 🇬🇧 | 🇩🇪 | 🇧🇾  
-  [![Deployed on Vercel](https://img.shields.io/badge/Live%20Site-Vercel-black?logo=vercel&style=flat)](https://yahorpaulson.com)  
-- 🔗 [**More Projects**](https://github.com/yahorpaulson?tab=repositories)
+### 🎥 MoQ / MOQtail Experiments
+Research and experimentation with Media over QUIC, adaptive streaming behavior, buffering, object/group transport, and real-time media delivery.
 
+### 💼 Portfolio Website
+🔗 https://yahorpaulson.com
+
+Full-stack portfolio built with Vue + Node.js + MongoDB.
+
+- 🌙 Dark theme
+- 🌐 Multilingual
+- 📱 Responsive UI
+
+### 🛒 Online Marketplace
+🔗 https://github.com/yahorpaulson/online-marketplace
+
+Modular e-commerce platform with multilingual support and admin functionality.
+
+### 🚛 ataian-umzug.at
+🔗 https://ataian-umzug.at
+
+Company website for moving services.
+
+### 🔗 More Projects
+https://github.com/yahorpaulson?tab=repositories
+
+---
+
+## 🧠 Interests
+
+- Real-time media systems
+- QUIC & HTTP/3
+- Adaptive bitrate algorithms
+- Distributed systems
+- Backend architecture
+- Performance optimization
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yahor-siarheyeu-0a72a52a4)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:yahorforall@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/yahor-siarheyeu-0a72a52a4
+- GitHub: https://github.com/yahorpaulson
+- Email: yahorforall@gmail.com
+
+
+## Stats
+
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yahorpaulson)](https://github.com/pranesh-2005/github-readme-stats-fast)
